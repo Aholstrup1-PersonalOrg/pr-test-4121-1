@@ -2,5 +2,5 @@
   "$schema": "https://raw.githubusercontent.com/aholstrup1-personalorg/AL-Go/test/pr-4121-bch/Actions/.Modules/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/aholstrup1-personalorg/AL-Go@test/pr-4121-bch",
-  "templateSha": "5a27ab803c9604b3ff5099d8e2d683b9f3545cc6"
+  "templateSha": "9c65f98e92f8b2d47ab0a97b90e2bb1ae79a1bf7"
 }
