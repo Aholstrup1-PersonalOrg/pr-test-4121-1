@@ -1,7 +1,11 @@
 {
   "$schema": "https://raw.githubusercontent.com/aholstrup1-personalorg/AL-Go/test/pr-4121-bch/Actions/.Modules/settings.schema.json",
   "country": "us",
+  "artifact": "////nextmajor/latest",
+  "vsixFile": "https://github.com/Aholstrup1-PersonalOrg/pr-test-4121-1/releases/download/v0.0.1-vsix-test/al-18.0.0-marketplace.vsix",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "useCompilerFolder": true,
+  "gitHubRunner": "ubuntu-latest"
 }
